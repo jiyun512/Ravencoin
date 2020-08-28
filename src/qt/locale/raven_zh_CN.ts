@@ -236,6 +236,42 @@
 <context>
     <name>RavenGUI</name>
     <message>
+        <source>&amp;Wallet</source>
+        <translation>钱包</translation>
+    </message>
+    <message>
+        <source>&amp;Wallet Repair</source>
+        <translation>修复钱包</translation>
+    </message>
+    <message>
+        <source>&amp;Debug Window</source>
+        <translation>调试窗口</translation>
+    </message>	
+    <message>
+        <source>&amp;Create Assets</source>
+        <translation>创建资产</translation>
+    </message>
+    <message>
+        <source>&amp;Transfer Assets</source>
+        <translation>发送资产</translation>
+    </message>
+    <message>
+        <source>&amp;Manage Assets</source>
+        <translation>管理资产</translation>
+    </message>
+    <message>
+        <source>&amp;Messaging</source>
+        <translation>消息</translation>
+    </message>
+    <message>
+        <source>&amp;Voting</source>
+        <translation>投票</translation>
+    </message>
+    <message>
+        <source>&amp;Restricted Assets</source>
+        <translation>受限资产</translation>
+    </message>
+    <message>
         <source>Sign &amp;message...</source>
         <translation>消息签名(&amp;M)...</translation>
     </message>
