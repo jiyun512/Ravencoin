@@ -272,6 +272,27 @@
         <translation>受限资产</translation>
     </message>
     <message>
+        <source>Transfer assets to RVN addresses</source>
+        <translation>给一个RVN地址输入资产</translation>
+    </message>
+    <message>
+        <source>Create new main/sub/unique assets</source>
+        <translation>创建一个主资产/子资产/唯一资产</translation>
+    </message>
+    <message>
+        <source>Manage assets you are the administrator of</source>
+        <translation>如果是管理员,您可以管理资产</translation>
+    </message>
+    <message>
+        <source>Coming Soon</source>
+        <translation>即将发布</translation>
+    </message>
+    <message>
+        <source>Manage restricted assets</source>
+        <translation>管理受限制资产</translation>
+    </message>
+	
+    <message>
         <source>Sign &amp;message...</source>
         <translation>消息签名(&amp;M)...</translation>
     </message>
