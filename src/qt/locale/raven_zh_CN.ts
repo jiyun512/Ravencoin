@@ -1516,7 +1516,7 @@
 	</message>
 	<message>
 		<source>Transfer Administrator Asset</source>
-		<translation>转移管理员资产</translation>
+		<translation>同时转移资产管理员</translation>
 	</message>
 	<message>
 		<source>Put a IPFS or Txid hash here to be sent with the asset transfer</source>
